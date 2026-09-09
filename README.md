@@ -1,6 +1,5 @@
 # Student-Management-System
- 🎓 Student Management System | Core Java | OOPs | Collections | Exception Handling | CRUD Operations
-
+☕ Core Java | 🧩 OOPs | 📦 Collections | 🛡️ Exception Handling | 🔄 CRUD Operations | 🚀 Learning Project
  # 🎓 Student Management System
 
 <p align="center">
